@@ -22,15 +22,15 @@ Frameworks provide the foundational tools for developing, orchestrating, and man
 
 - **[Agent Genesis](https://github.com/DeadmanAbir/AgentGenesis)**  
   An open-source framework that allows developers to build custom Retrieval-Augmented Generation (RAG) workflows and AI agents using modular, copy-paste components.  
-  ![GitHub Repo stars](https://img.shields.io/github/stars/aiagentsdirectory/agent-genesis?style=social)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/DeadmanAbir/AgentGenesis?style=social)
 
 - **[AgentVerse](https://github.com/OpenBMB/AgentVerse)**  
   A versatile platform offering tools for building and managing AI agents, particularly suited for collaborative environments.  
-  ![GitHub Repo stars](https://img.shields.io/github/stars/AgentVerse/agentverse?style=social)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/AgentVerse?style=social)
 
 - **[Atomic Agent](https://github.com/BrainBlend-AI/atomic-agents)**  
   A versatile, open-source framework created by BrainBlend AI for developing multi-agent systems and AI applications.  
-  ![GitHub Repo stars](https://img.shields.io/github/stars/aiagentsdirectory/atomic-agent?style=social)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/BrainBlend-AI/atomic-agents?style=social)
 
 - **[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)**  
   An experimental open-source application demonstrating the capabilities of GPT-4 by autonomously developing and managing projects, requiring minimal human intervention.  
@@ -42,7 +42,7 @@ Frameworks provide the foundational tools for developing, orchestrating, and man
 
 - **[Bee Agent Framework](https://github.com/i-am-bee/bee-agent-framework)**  
   An open-source toolkit designed to create scalable agent-based workflows with various AI models.  
-  ![GitHub Repo stars](https://img.shields.io/github/stars/aiagentsdirectory/bee-agent-framework?style=social)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/i-am-bee/bee-agent-framework?style=social)
 
 - **[CrewAI](https://github.com/joaomdmoura/crewai)**  
   A framework for orchestrating role-playing AI agents, allowing developers to define distinct roles and interactions among agents to simulate complex scenarios.  
@@ -54,15 +54,15 @@ Frameworks provide the foundational tools for developing, orchestrating, and man
 
 - **[Internet of Agents](https://github.com/OpenBMB/IoA)**  
   An open-source framework enabling AI agents to collaborate and tackle complex tasks together, facilitating distributed problem-solving.  
-  ![GitHub Repo stars](https://img.shields.io/github/stars/aiagentsdirectory/internet-of-agents?style=social)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/IoA?style=social)
 
 - **[LangChain](https://github.com/hwchase17/langchain)**  
   A framework that simplifies the development of applications powered by large language models by providing tools for chaining together various components, such as prompts, models, and memory.  
   ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain?style=social)
 
-- **[LangGraph](https://github.com/langgraph/langgraph)**  
+- **[LangGraph](https://github.com/langchain-ai/langgraph)**  
   A framework that provides a visual interface for stateful, multi-actor applications with LLMs, used to create agent and multi-agent workflows.   
-  ![GitHub Repo stars](https://img.shields.io/github/stars/langgraph/langgraph?style=social)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=social)
 
 - **[LlamaIndex](https://github.com/jerryjliu/llama_index)**  
   A data framework that offers a central interface to connect your LLMs with external data sources, streamlining the process of data ingestion and retrieval for language models.  
@@ -74,7 +74,7 @@ Frameworks provide the foundational tools for developing, orchestrating, and man
 
 - **[Modelscope-Agent](https://github.com/modelscope/modelscope-agent)**  
   A customizable and scalable agent framework offering capabilities such as role-playing, LLM integration, and tool usage.  
-  ![GitHub Repo stars](https://img.shields.io/github/stars/aiagentsdirectory/modelscope-agent?style=social)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/modelscope/modelscope-agent?style=social)
 
 - **[Semantic Kernel](https://github.com/microsoft/semantic-kernel)**  
   A Microsoft SDK that integrates large language models with conventional programming languages, enabling developers to incorporate AI capabilities into their applications seamlessly.  
@@ -96,15 +96,15 @@ This section will include tools and resources to monitor, debug, and analyze AI 
 
 - **[AgentOps](https://github.com/AgentOps-AI/agentops)**  
   A platform designed to monitor multi-agent systems, providing insights into performance bottlenecks and collaboration quality, thereby enhancing efficiency and reliability.  
-  ![GitHub Repo stars](https://img.shields.io/github/stars/akira-ai/agentops?style=social)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/AgentOps-AI/agentops?style=social)
 
 - **[Explorer by Invariant Labs](https://github.com/invariantlabs-ai/explorer)**  
   An advanced observability tool designed to simplify the analysis of agent traces, allowing users to quickly browse and understand agent behaviors and interactions.  
-  ![GitHub Repo stars](https://img.shields.io/github/stars/invariantlabs/explorer?style=social)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/invariantlabs-ai/explorer?style=social)
 
 - **[Helicone AI](https://github.com/Helicone/helicone)**  
   An open-source observability platform designed to empower developers in building, monitoring, and optimizing AI applications, providing real-time insights and analytics.  
-  ![GitHub Repo stars](https://img.shields.io/github/stars/helicone-ai/helicone?style=social)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/Helicone/helicone?style=social)
 
 - **[Langfuse](https://github.com/langfuse/langfuse)**  
   A tool that enables monitoring, tracing, and debugging of AI agents, assisting developers in optimizing application performance and understanding agent behaviors.  
@@ -112,7 +112,7 @@ This section will include tools and resources to monitor, debug, and analyze AI 
 
 - **[LangSmith](https://github.com/langchain-ai/langsmith-sdk)**  
   An all-in-one developer platform for every step of the LLM-powered application lifecycle, offering capabilities to debug, collaborate, test, and monitor LLM applications.  
-  ![GitHub Repo stars](https://img.shields.io/github/stars/langchain/langsmith?style=social)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langsmith-sdk?style=social)
 ---
 
 ## 🚀 Platforms *(Coming Soon)*
