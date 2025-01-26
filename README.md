@@ -9,8 +9,9 @@ A curated directory of practical and usable AI agents, covering resources from a
 1. [Frameworks](#frameworks)
 2. [Observability and Tracing](#observability-and-tracing)
 3. [Platforms](#platforms) *(Coming Soon)*
----
+4. [Emerging Ideas](#emerging-ideas)
 
+<a id="frameworks"></a>
 ## 🛠 Frameworks
 
 Frameworks provide the foundational tools for developing, orchestrating, and managing AI agents. These tools handle state management, abstractions for business logic, and other critical functionalities.
@@ -88,8 +89,8 @@ Frameworks provide the foundational tools for developing, orchestrating, and man
   An open-source framework enabling developers to build, manage, and run autonomous AI agents efficiently, supporting concurrent agent operations and tool integration.  
   ![GitHub Repo stars](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social)
 
----
 
+<a id="observability-and-tracing"></a>
 ## 🔍 Observability and Tracing
 
 This section will include tools and resources to monitor, debug, and analyze AI agent behaviors and interactions.
@@ -113,15 +114,19 @@ This section will include tools and resources to monitor, debug, and analyze AI 
 - **[LangSmith](https://github.com/langchain-ai/langsmith-sdk)**  
   An all-in-one developer platform for every step of the LLM-powered application lifecycle, offering capabilities to debug, collaborate, test, and monitor LLM applications.  
   ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langsmith-sdk?style=social)
----
 
+<a id="platforms"></a>
 ## 🚀 Platforms *(Coming Soon)*
 
 Stay tuned for updates! This section will cover platforms that enable you to deploy and manage AI agents in production environments.
 
----
+<a id="emerging-ideas"></a>
+## 🌱 Emerging Ideas
 
-### ✨ Contribute to the Directory
+- **[Model Context Protocol](https://github.com/modelcontextprotocol/specification)**  
+Open protocol proposed by Anthropic to standardize integration between LLM applications and external data sources and tools. 
+
+### ✨ Contribute to the Directory  
 
 Have a framework, platform, or tool that you think belongs here? Feel free to open a pull request or share your recommendations.
 
