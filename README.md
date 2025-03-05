@@ -87,7 +87,7 @@ Frameworks provide the foundational tools for developing, orchestrating, and man
 
 - **[OpenAI Swarm](https://github.com/openai/swarm)**  
   An experimental framework by OpenAI’s dev team for lightweight multi-agent orchestration. Introduces concepts of “agents”, “handoffs” and "routines". Agents encapsulate a task or expertise, and handoffs allow an agent to pass control to another agent. Routines are reusable plans that an agent can replay to fulfill certain objectives.  
-  ![GitHub Repo stars](https://img.shields.io/github/stars/pydantic/pydantic-ai?style=social)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/openai/swarm?style=social)
 
 - **[Pydantic AI](https://github.com/pydantic/pydantic-ai)**  
   A new experimental framework that integrates Pydantic’s structured validation with AI agent workflows. Pydantic AI focuses on enforcing strong type safety, schema validation, and structured output generation for AI-driven applications.  
