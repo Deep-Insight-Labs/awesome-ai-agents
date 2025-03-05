@@ -27,7 +27,11 @@ Frameworks provide the foundational tools for developing, orchestrating, and man
 
 - **[AgentVerse](https://github.com/OpenBMB/AgentVerse)**  
   A versatile platform offering tools for building and managing AI agents, particularly suited for collaborative environments.  
-  ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/AgentVerse?style=social)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/agno-agi/agno?style=social)
+
+- **[Agno](https://github.com/agno-agi/agno)**  
+  A lightweight library for building Multimodal Agents with memory, knowledge and tools. Notably, Agno emphasizes performance and scalability – e.g. agent instantiation is benchmarked ~10,000× faster than some alternatives.
+  ![GitHub Repo stars](https://img.shields.io/github/stars/agno-agi/agno?style=social)
 
 - **[Atomic Agent](https://github.com/BrainBlend-AI/atomic-agents)**  
   A versatile, open-source framework created by BrainBlend AI for developing multi-agent systems and AI applications.  
@@ -44,6 +48,10 @@ Frameworks provide the foundational tools for developing, orchestrating, and man
 - **[Bee Agent Framework](https://github.com/i-am-bee/bee-agent-framework)**  
   An open-source toolkit designed to create scalable agent-based workflows with various AI models.  
   ![GitHub Repo stars](https://img.shields.io/github/stars/i-am-bee/bee-agent-framework?style=social)
+
+- **[CAMEL](https://github.com/camel-ai/camel)**  
+  Emerging from a research community exploring the “scaling laws” of AI agents. Designed as a sandbox to study how collaborative AI systems perform and evolve as the number of agents grows.
+  ![GitHub Repo stars](https://img.shields.io/github/stars/camel-ai/camel?style=social)
 
 - **[CrewAI](https://github.com/joaomdmoura/crewai)**  
   A framework for orchestrating role-playing AI agents, allowing developers to define distinct roles and interactions among agents to simulate complex scenarios.  
@@ -76,6 +84,14 @@ Frameworks provide the foundational tools for developing, orchestrating, and man
 - **[Modelscope-Agent](https://github.com/modelscope/modelscope-agent)**  
   A customizable and scalable agent framework offering capabilities such as role-playing, LLM integration, and tool usage.  
   ![GitHub Repo stars](https://img.shields.io/github/stars/modelscope/modelscope-agent?style=social)
+
+- **[OpenAI Swarm](https://github.com/openai/swarm)**  
+  An experimental framework by OpenAI’s dev team for lightweight multi-agent orchestration. Introduces concepts of “agents”, “handoffs” and "routines". Agents encapsulate a task or expertise, and handoffs allow an agent to pass control to another agent. Routines are reusable plans that an agent can replay to fulfill certain objectives.  
+  ![GitHub Repo stars](https://img.shields.io/github/stars/pydantic/pydantic-ai?style=social)
+
+- **[Pydantic AI](https://github.com/pydantic/pydantic-ai)**  
+  A new experimental framework that integrates Pydantic’s structured validation with AI agent workflows. Pydantic AI focuses on enforcing strong type safety, schema validation, and structured output generation for AI-driven applications.  
+  ![GitHub Repo stars](https://img.shields.io/github/stars/pydantic/pydantic-ai?style=social)
 
 - **[Semantic Kernel](https://github.com/microsoft/semantic-kernel)**  
   A Microsoft SDK that integrates large language models with conventional programming languages, enabling developers to incorporate AI capabilities into their applications seamlessly.  
@@ -133,3 +149,4 @@ Have a framework, platform, or tool that you think belongs here? Feel free to op
 ---
 
 🌟 *Help us grow this directory by starring the repositories and sharing this page! Together, we can accelerate innovation in the AI agent space.* 🌟
+
