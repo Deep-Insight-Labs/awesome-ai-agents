@@ -139,8 +139,17 @@ Stay tuned for updates! This section will cover platforms that enable you to dep
 <a id="emerging-ideas"></a>
 ## 🌱 Emerging Ideas
 
+- **[AGNTCY](https://github.com/agntcy)**  
+AGNTCY is an open collective pioneered by Galileo, Langchain, and Cisco to create and build the infrastructure specifications and components for interoperable multi-agent systems. AGNTCY aims to standardize how AI agents are **discovered, composed, deployed, and evaluated** to enable collaboration across frameworks and companies.
+    - **[Open Agent Schema Framework](http://github.com/agntcy/oasf)**  
+      The OASF is a standardized schema system for defining and managing AI agent capabilities, interactions, and metadata. It serves as the foundation for interoperable AI agent systems, to enable consistent definition and discovery of agent capabilities across distributed systems and different frameworks
+      ![GitHub Repo stars](https://img.shields.io/github/stars/agntcy/oasf?style=social)
+    - **[Agent Connect Protocol](https://github.com/agntcy/acp-spec)**  
+      The ACP defines a standard for discovery (thru an ACP server) and communications between agents that is interoperable across frameworks. The protocol provides support for common and popular concepts in agentic frameworks such as state, context and threads. 
+      ![GitHub Repo stars](https://img.shields.io/github/stars/agntcy/acp-spec?style=social)
 - **[Model Context Protocol](https://github.com/modelcontextprotocol/specification)**  
 Open protocol proposed by Anthropic to standardize integration between LLM applications and external data sources and tools. 
+  ![GitHub Repo stars](https://img.shields.io/github/stars/modelcontextprotocol/specification?style=social)
 
 ### ✨ Contribute to the Directory  
 
