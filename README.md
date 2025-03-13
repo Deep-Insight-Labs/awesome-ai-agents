@@ -105,6 +105,9 @@ Frameworks provide the foundational tools for developing, orchestrating, and man
   An open-source framework enabling developers to build, manage, and run autonomous AI agents efficiently, supporting concurrent agent operations and tool integration.  
   ![GitHub Repo stars](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social)
 
+- **[Upsonic](https://github.com/upsonic/upsonic)**  
+  Upsonic is a reliable agent framework supporting MCP, offering trusted agent workflows with verification layers.
+  ![GitHub Repo stars](https://img.shields.io/github/stars/upsonic/upsonic?style=social)
 
 <a id="observability-and-tracing"></a>
 ## 🔍 Observability and Tracing
