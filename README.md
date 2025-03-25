@@ -102,7 +102,7 @@ Frameworks provide the foundational tools for developing, orchestrating, and man
   ![GitHub Repo stars](https://img.shields.io/github/stars/pydantic/pydantic-ai?style=social)
 
 - **[RD Agent](https://github.com/microsoft/RD-Agent)**  
-  A novel agentic framework targeted at research and development tasks. Approach consists of two phases: 1) idea generation (research) and 2) implementation (development). Pro
+  A novel agentic framework targeted at research and development tasks. Approach consists of two phases: 1) idea generation (research) and 2) implementation (development). Support for both the 1) co-pilot (follow human instructions to automate repetitive tasks) as well as 2)an autonomous agent (automatically procduces a plan) workflow.
   ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/RD-Agent?style=social)
 
 - **[Semantic Kernel](https://github.com/microsoft/semantic-kernel)**  
