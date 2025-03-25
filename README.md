@@ -25,6 +25,10 @@ Frameworks provide the foundational tools for developing, orchestrating, and man
   An open-source framework that allows developers to build custom Retrieval-Augmented Generation (RAG) workflows and AI agents using modular, copy-paste components.  
   ![GitHub Repo stars](https://img.shields.io/github/stars/DeadmanAbir/AgentGenesis?style=social)
 
+- **[AgentLaboratory](https://github.com/SamuelSchmidgall/AgentLaboratory)**  
+  Multi-agent end-to-end workflow that simulates a research team that can perform literature reviews, formulating research plans to executing experiments and writing comprehensive reports. 
+  ![GitHub Repo stars](https://img.shields.io/github/stars/SamuelSchmidgall/AgentLaboratory?style=social)
+
 - **[AgentVerse](https://github.com/OpenBMB/AgentVerse)**  
   A versatile platform offering tools for building and managing AI agents, particularly suited for collaborative environments.  
   ![GitHub Repo stars](https://img.shields.io/github/stars/agno-agi/agno?style=social)
@@ -73,6 +77,10 @@ Frameworks provide the foundational tools for developing, orchestrating, and man
   A framework that provides a visual interface for stateful, multi-actor applications with LLMs, used to create agent and multi-agent workflows.   
   ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=social)
 
+- **[LangManus](https://github.com/langmanus/langmanus)**  
+  General purpose agent framework that connects a LLM with specialized tools for tasks like web search, crawling, and Python code execution 
+  ![GitHub Repo stars](https://img.shields.io/github/stars/langmanus/langmanus?style=social)
+
 - **[LlamaIndex](https://github.com/jerryjliu/llama_index)**  
   A data framework that offers a central interface to connect your LLMs with external data sources, streamlining the process of data ingestion and retrieval for language models.  
   ![GitHub Repo stars](https://img.shields.io/github/stars/jerryjliu/llama_index?style=social)
@@ -92,6 +100,10 @@ Frameworks provide the foundational tools for developing, orchestrating, and man
 - **[Pydantic AI](https://github.com/pydantic/pydantic-ai)**  
   A new experimental framework that integrates Pydantic’s structured validation with AI agent workflows. Pydantic AI focuses on enforcing strong type safety, schema validation, and structured output generation for AI-driven applications.  
   ![GitHub Repo stars](https://img.shields.io/github/stars/pydantic/pydantic-ai?style=social)
+
+- **[RD Agent](https://github.com/microsoft/RD-Agent)**  
+  A novel agentic framework targeted at research and development tasks. Approach consists of two phases: 1) idea generation (research) and 2) implementation (development). Pro
+  ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/RD-Agent?style=social)
 
 - **[Semantic Kernel](https://github.com/microsoft/semantic-kernel)**  
   A Microsoft SDK that integrates large language models with conventional programming languages, enabling developers to incorporate AI capabilities into their applications seamlessly.  
