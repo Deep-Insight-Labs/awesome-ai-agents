@@ -61,6 +61,10 @@ Frameworks provide the foundational tools for developing, orchestrating, and man
   A framework for orchestrating role-playing AI agents, allowing developers to define distinct roles and interactions among agents to simulate complex scenarios.  
   ![GitHub Repo stars](https://img.shields.io/github/stars/joaomdmoura/crewai?style=social)
 
+- **[Giselle](https://github.com/giselles-ai/giselle)**  
+  An agentic workflow builder that empowers you to create AI-driven solutions with ease. Using a highly intuitive node-based interface, Giselle enables you to design and deploy powerful AI Agents by seamlessly integrating multiple LLMs and data sources.  
+  ![GitHub Repo stars](https://img.shields.io/github/stars/giselles-ai/giselle?style=social)
+
 - **[Haystack](https://github.com/deepset-ai/haystack)**  
   An end-to-end framework for building NLP applications, facilitating the creation of systems that can perform tasks like question answering and document retrieval using Transformer models and LLMs.  
   ![GitHub Repo stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social)
