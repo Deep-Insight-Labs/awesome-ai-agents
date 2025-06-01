@@ -1,7 +1,7 @@
 # 🌟 Awesome AI Agents
 
 A curated directory of practical and usable AI agents, covering resources from applications and platforms to frameworks, utilities, and other components in the growing AI agents ecosystem.
-
+By [Deep Insight Labs](https://www.deepinsightlabs.ai)
 ---
 
 ## 📚 Table of Contents
