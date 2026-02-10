@@ -42,6 +42,10 @@ Frameworks provide the foundational tools for developing, orchestrating, and man
   ![GitHub Repo stars](https://img.shields.io/github/stars/BrainBlend-AI/atomic-agents?style=social)
 
 - **[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)**  
+
+- **[GolemCore Bot](https://github.com/alexk-dev/golemcore-bot)**  
+  AI agent framework for Java ? skill-based architecture with MCP support, tool calling, RAG, and Telegram integration. Built on Spring Boot and LangChain4j for enterprise-grade autonomous agents.  
+  ![GitHub Repo stars](https://img.shields.io/github/stars/alexk-dev/golemcore-bot?style=social)
   An experimental open-source application demonstrating the capabilities of GPT-4 by autonomously developing and managing projects, requiring minimal human intervention.  
   ![GitHub Repo stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social)
 
