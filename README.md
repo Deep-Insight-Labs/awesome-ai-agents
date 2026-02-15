@@ -154,6 +154,10 @@ This section will include tools and resources to monitor, debug, and analyze AI 
   An all-in-one developer platform for every step of the LLM-powered application lifecycle, offering capabilities to debug, collaborate, test, and monitor LLM applications.  
   ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langsmith-sdk?style=social)
 
+- **[Opik](https://github.com/comet-ml/opik)**  
+  Open-source observability, tracing, and evaluation platform for LLM applications and agent workflows.  
+  ![GitHub Repo stars](https://img.shields.io/github/stars/comet-ml/opik?style=social)
+
 <a id="platforms"></a>
 ## 🚀 Platforms *(Coming Soon)*
 
