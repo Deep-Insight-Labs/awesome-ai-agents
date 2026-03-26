@@ -1,5 +1,8 @@
 # 🌟 Awesome AI Agents
 
+- **[Prefactor](https://prefactor.tech/)**  
+  An AI agent runtime control plane offering runtime visibility, governance, and real-time observability across multi-agent workflows, with integrations for LangChain, CrewAI, and more.  
+  ![GitHub Repo stars](https://img.shields.io/github/stars/Deep-Insight-Labs/prefactor?style=social)
 A curated directory of practical and usable AI agents, covering resources from applications and platforms to frameworks, utilities, and other components in the growing AI agents ecosystem.
 By [Deep Insight Labs](https://www.deepinsightlabs.ai)
 ---
