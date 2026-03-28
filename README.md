@@ -113,9 +113,12 @@ Frameworks provide the foundational tools for developing, orchestrating, and man
   A novel agentic framework targeted at research and development tasks. Approach consists of two phases: 1) idea generation (research) and 2) implementation (development). Support for both the 1) co-pilot (follow human instructions to automate repetitive tasks) as well as 2)an autonomous agent (automatically procduces a plan) workflow.
   ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/RD-Agent?style=social)
 
-- **[Semantic Kernel](https://github.com/microsoft/semantic-kernel)**  
-  A Microsoft SDK that integrates large language models with conventional programming languages, enabling developers to incorporate AI capabilities into their applications seamlessly.  
+- **[Semantic Kernel](https://github.com/microsoft/semantic-kernel)**
+  A Microsoft SDK that integrates large language models with conventional programming languages, enabling developers to incorporate AI capabilities into their applications seamlessly.
   ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/semantic-kernel?style=social)
+
+- **[ShopSavvy Desktop](https://shopsavvy.com/desktop)**
+  Autonomous AI shopping agent for Mac, Windows, and Linux that auto-buys products at target prices, navigates retailer checkouts, and monitors prices in the background.
 
 - **[smolagents](https://github.com/huggingface/smolagents)**  
   A minimalist library by Hugging Face that enables developers to build powerful AI agents with a few lines of code, focusing on code agents that write and execute Python code snippets for tasks.  
