@@ -5,6 +5,7 @@ By [Deep Insight Labs](https://www.deepinsightlabs.ai)
 ---
 
 ## 📚 Table of Contents
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 1. [Frameworks](#frameworks)
 2. [Observability and Tracing](#observability-and-tracing)
