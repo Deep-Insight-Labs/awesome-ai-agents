@@ -5,6 +5,7 @@ By [Deep Insight Labs](https://www.deepinsightlabs.ai)
 ---
 
 ## 📚 Table of Contents
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 1. [Frameworks](#frameworks)
 2. [Observability and Tracing](#observability-and-tracing)
@@ -13,6 +14,7 @@ By [Deep Insight Labs](https://www.deepinsightlabs.ai)
 
 <a id="frameworks"></a>
 ## 🛠 Frameworks
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 Frameworks provide the foundational tools for developing, orchestrating, and managing AI agents. These tools handle state management, abstractions for business logic, and other critical functionalities.
 
@@ -135,6 +137,7 @@ Frameworks provide the foundational tools for developing, orchestrating, and man
 
 <a id="observability-and-tracing"></a>
 ## 🔍 Observability and Tracing
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 This section will include tools and resources to monitor, debug, and analyze AI agent behaviors and interactions.
 
@@ -164,11 +167,13 @@ This section will include tools and resources to monitor, debug, and analyze AI 
 
 <a id="platforms"></a>
 ## 🚀 Platforms *(Coming Soon)*
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 Stay tuned for updates! This section will cover platforms that enable you to deploy and manage AI agents in production environments.
 
 <a id="emerging-ideas"></a>
 ## 🌱 Emerging Ideas
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 - **[AGNTCY](https://github.com/agntcy)**  
 AGNTCY is an open collective pioneered by Galileo, Langchain, and Cisco to create and build the infrastructure specifications and components for interoperable multi-agent systems. AGNTCY aims to standardize how AI agents are **discovered, composed, deployed, and evaluated** to enable collaboration across frameworks and companies.
