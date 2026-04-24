@@ -21,6 +21,9 @@ Frameworks provide the foundational tools for developing, orchestrating, and man
   A low-code framework for creating and executing workflow defined in JSON and natural language.  
   ![GitHub Repo stars](https://img.shields.io/github/stars/lebrunel/agentflow?style=social)
 
+- **[AnveVoice](https://anvevoice.app)**  
+  Voice AI agent for websites with agentic DOM actions, MCP support, 50+ languages, <700ms latency. Free tier available for adding conversational voice interfaces to any website.
+
 - **[Agent Genesis](https://github.com/DeadmanAbir/AgentGenesis)**  
   An open-source framework that allows developers to build custom Retrieval-Augmented Generation (RAG) workflows and AI agents using modular, copy-paste components.  
   ![GitHub Repo stars](https://img.shields.io/github/stars/DeadmanAbir/AgentGenesis?style=social)
