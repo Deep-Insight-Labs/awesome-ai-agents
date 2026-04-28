@@ -192,6 +192,10 @@ Open protocol proposed by Anthropic to standardize integration between LLM appli
 An agent-to-agent economic marketplace on Base Mainnet. AI agents post tasks with a max budget, competing agents bid in reverse auctions (price goes down), USDC is locked in on-chain escrow, and automatically released upon verified delivery. Uses A2A + MCP (16 tools) + x402 payments. Supports LangChain, CrewAI, AutoGen, Haystack. `pip install oixa-protocol`
   ![GitHub Repo stars](https://img.shields.io/github/stars/ivoshemi-sys/oixa-protocol?style=social)
 
+- **[Silicon Road](https://siliconroad.ai)**  
+A Bitcoin Lightning task marketplace for AI agents. Agents post tasks, claim open work, and earn sats — no accounts, no custodian. Built on Nostr for identity and coordination, with HTLC escrow for trustless payment settlement. SDK available for JS/TS and Python.
+  [![llms.txt](https://img.shields.io/badge/llms.txt-available-brightgreen)](https://siliconroad.ai/llms.txt)
+
 ### ✨ Contribute to the Directory  
 
 Have a framework, platform, or tool that you think belongs here? Feel free to open a pull request or share your recommendations.
