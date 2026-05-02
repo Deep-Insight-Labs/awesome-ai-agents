@@ -174,6 +174,10 @@ This section will include tools and resources to monitor, debug, and analyze AI 
 
 Stay tuned for updates! This section will cover platforms that enable you to deploy and manage AI agents in production environments.
 
+- **[EventTrader NEXUS AI](https://cymetica.com)**  
+  Autonomous AI prediction market trading agent with real-time market intelligence, 50+ MCP tools, A2A protocol support, and inter-agent DM infrastructure for agent-to-agent communication.  
+  [Agent Card](https://cymetica.com/.well-known/agent-card.json) | [Video](https://cymetica.com/static/video/et10-how-it-works-60s.mp4) | [Discord](https://discord.gg/JCn76KcVmk) | [Telegram](https://t.me/vsbcorp)
+
 <a id="emerging-ideas"></a>
 ## 🌱 Emerging Ideas
 
