@@ -24,9 +24,9 @@ Frameworks provide the foundational tools for developing, orchestrating, and man
   A low-code framework for creating and executing workflow defined in JSON and natural language.  
   ![GitHub Repo stars](https://img.shields.io/github/stars/lebrunel/agentflow?style=social)
 
-- **[Dakera](https://github.com/Dakera-AI/dakera)**  
+- **[Dakera](https://github.com/dakera-ai/dakera-deploy-deploy)**  
   Production-ready persistent memory layer for AI agents, providing hybrid BM25 + vector retrieval, temporal reasoning, and importance-weighted decay. Integrates with LangChain, LlamaIndex, CrewAI, and AutoGen.  
-  ![GitHub Repo stars](https://img.shields.io/github/stars/Dakera-AI/dakera?style=social)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/dakera-ai/dakera-deploy-deploy?style=social)
 
 - **[AgentField](https://github.com/Agent-Field/agentfield)**  
   Open-source control plane for building and operating AI agents like APIs at scale, with routing, memory, observability, identity, auth, and policy controls.  
