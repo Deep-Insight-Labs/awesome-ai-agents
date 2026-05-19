@@ -149,6 +149,10 @@ This section will include tools and resources to monitor, debug, and analyze AI 
   A platform designed to monitor multi-agent systems, providing insights into performance bottlenecks and collaboration quality, thereby enhancing efficiency and reliability.  
   ![GitHub Repo stars](https://img.shields.io/github/stars/AgentOps-AI/agentops?style=social)
 
+- **[agenttrace](https://github.com/luoyuctl/agenttrace)**
+  A local TUI for inspecting AI coding-agent session logs, usage, cost, latency, tool failures, diffs, and CI gates.
+  ![GitHub Repo stars](https://img.shields.io/github/stars/luoyuctl/agenttrace?style=social)
+
 - **[Explorer by Invariant Labs](https://github.com/invariantlabs-ai/explorer)**  
   An advanced observability tool designed to simplify the analysis of agent traces, allowing users to quickly browse and understand agent behaviors and interactions.  
   ![GitHub Repo stars](https://img.shields.io/github/stars/invariantlabs-ai/explorer?style=social)
