@@ -11,7 +11,7 @@ By [Deep Insight Labs](https://www.deepinsightlabs.ai)
 
 1. [Frameworks](#frameworks)
 2. [Observability and Tracing](#observability-and-tracing)
-3. [Platforms](#platforms) *(Coming Soon)*
+3. [Platforms](#platforms)
 4. [Emerging Ideas](#emerging-ideas)
 
 <a id="frameworks"></a>
@@ -170,9 +170,13 @@ This section will include tools and resources to monitor, debug, and analyze AI 
   ![GitHub Repo stars](https://img.shields.io/github/stars/comet-ml/opik?style=social)
 
 <a id="platforms"></a>
-## 🚀 Platforms *(Coming Soon)*
+## 🚀 Platforms
 
-Stay tuned for updates! This section will cover platforms that enable you to deploy and manage AI agents in production environments.
+Platforms that enable you to deploy, manage, or coordinate AI agents in production environments.
+
+- **[Agent Teams](https://github.com/777genius/agent-teams-ai)**
+  Open-source desktop platform for running autonomous AI coding teams across Claude, Codex, and OpenCode. Users give high-level commands while agents handle Kanban tasks, messaging, code review, logs, and approvals across 200+ models and 75+ LLM providers.
+  ![GitHub Repo stars](https://img.shields.io/github/stars/777genius/agent-teams-ai?style=social)
 
 <a id="emerging-ideas"></a>
 ## 🌱 Emerging Ideas
