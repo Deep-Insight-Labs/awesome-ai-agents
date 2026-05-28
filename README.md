@@ -169,10 +169,22 @@ This section will include tools and resources to monitor, debug, and analyze AI 
   Open-source observability, tracing, and evaluation platform for LLM applications and agent workflows.  
   ![GitHub Repo stars](https://img.shields.io/github/stars/comet-ml/opik?style=social)
 
+- **[ai-evaluation](https://github.com/future-agi/ai-evaluation)**  
+  Open-source LLM evaluation framework with 50+ metrics, LLM-as-Judge augmentation, and guardrail scanners (jailbreak, PII, prompt-injection); AutoEval pipelines with CI/CD support.  
+  ![GitHub Repo stars](https://img.shields.io/github/stars/future-agi/ai-evaluation?style=social)
+
+- **[traceAI](https://github.com/future-agi/traceAI)**  
+  Open-source OpenTelemetry-native tracing for LLM and agent apps. Auto-instruments 50+ frameworks across Python, TypeScript, Java, and C# (OpenAI, Anthropic, LangChain, LlamaIndex, CrewAI, Bedrock). No vendor lock-in.  
+  ![GitHub Repo stars](https://img.shields.io/github/stars/future-agi/traceAI?style=social)
+
 <a id="platforms"></a>
 ## 🚀 Platforms *(Coming Soon)*
 
 Stay tuned for updates! This section will cover platforms that enable you to deploy and manage AI agents in production environments.
+
+- **[Future AGI](https://github.com/future-agi/future-agi)**  
+  Open-source self-hostable end-to-end agent engineering and optimization platform unifying tracing, evaluation, simulation, datasets, gateway, and guardrails in one feedback loop.  
+  ![GitHub Repo stars](https://img.shields.io/github/stars/future-agi/future-agi?style=social)
 
 <a id="emerging-ideas"></a>
 ## 🌱 Emerging Ideas
