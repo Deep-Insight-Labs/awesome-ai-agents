@@ -140,6 +140,15 @@ Frameworks provide the foundational tools for developing, orchestrating, and man
   Upsonic is a reliable agent framework supporting MCP, offering trusted agent workflows with verification layers.
   ![GitHub Repo stars](https://img.shields.io/github/stars/upsonic/upsonic?style=social)
 
+<a id="security-and-trust"></a>
+## 🔐 Security and Trust
+
+Tools for agent identity verification, trust scoring, and behavioral attestation in multi-agent workflows.
+
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)**  
+  On-chain behavioral trust scoring for AI agents on Solana. MCP-accessible: `score_agent(wallet)` and `preflight_check(wallet)` (free); `get_trust_receipt(wallet)` (paid via x402 micropayment). Provides verifiable trust signals for agent-to-agent interactions and x402 payment gating.  
+  Free MCP config: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
 <a id="observability-and-tracing"></a>
 ## 🔍 Observability and Tracing
 
