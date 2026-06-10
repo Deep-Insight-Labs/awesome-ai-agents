@@ -112,6 +112,10 @@ Frameworks provide the foundational tools for developing, orchestrating, and man
   An open source, serverless framework for building intelligent agents and APIs in Go or AssemblyScript (a TypeScript-like language). Modus is a runtime purpose-built for orchestrating autonomous AI agents that operate as first-class citizens in your stack.
   ![GitHub Repo stars](https://img.shields.io/github/stars/hypermodeinc/modus?style=social)
 
+- **[NarraNexus](https://github.com/NetMindAI-Open/NarraNexus)**  
+  Ready-to-run AI agent team workspace whose agents keep persistent memory across sessions, collaborate across roles (PM, developer, deployment, research), and use MCP-style tools from day one.  
+  ![GitHub Repo stars](https://img.shields.io/github/stars/NetMindAI-Open/NarraNexus?style=social)
+
 - **[OpenAI Swarm](https://github.com/openai/swarm)**  
   An experimental framework by OpenAI’s dev team for lightweight multi-agent orchestration. Introduces concepts of “agents”, “handoffs” and "routines". Agents encapsulate a task or expertise, and handoffs allow an agent to pass control to another agent. Routines are reusable plans that an agent can replay to fulfill certain objectives.  
   ![GitHub Repo stars](https://img.shields.io/github/stars/openai/swarm?style=social)
