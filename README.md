@@ -92,6 +92,10 @@ Frameworks provide the foundational tools for developing, orchestrating, and man
   A framework that provides a visual interface for stateful, multi-actor applications with LLMs, used to create agent and multi-agent workflows.   
   ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=social)
 
+- **[LightAgent](https://github.com/wanxingai/LightAgent)**
+  A lightweight Python agent framework with memory, tool use, MCP/SSE integration, reusable Skills, deterministic LightFlow workflows, tracing, and LightSwarm multi-agent collaboration.
+  ![GitHub Repo stars](https://img.shields.io/github/stars/wanxingai/LightAgent?style=social)
+
 - **[LangManus](https://github.com/langmanus/langmanus)**  
   General purpose agent framework that connects a LLM with specialized tools for tasks like web search, crawling, and Python code execution 
   ![GitHub Repo stars](https://img.shields.io/github/stars/langmanus/langmanus?style=social)
@@ -199,4 +203,3 @@ Have a framework, platform, or tool that you think belongs here? Feel free to op
 ---
 
 🌟 *Help us grow this directory by starring the repositories and sharing this page! Together, we can accelerate innovation in the AI agent space.* 🌟
-
