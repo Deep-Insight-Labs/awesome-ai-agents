@@ -149,6 +149,10 @@ This section will include tools and resources to monitor, debug, and analyze AI 
   A platform designed to monitor multi-agent systems, providing insights into performance bottlenecks and collaboration quality, thereby enhancing efficiency and reliability.  
   ![GitHub Repo stars](https://img.shields.io/github/stars/AgentOps-AI/agentops?style=social)
 
+- **[ax](https://github.com/Necmttn/ax)**\
+  Local-first evidence graph for coding agents, indexing transcripts from Claude Code, Codex, Cursor, OpenCode, and Pi with read-only MCP queries for sessions, tool calls, skills, and cost analytics.\
+  ![GitHub Repo stars](https://img.shields.io/github/stars/Necmttn/ax?style=social)
+
 - **[Explorer by Invariant Labs](https://github.com/invariantlabs-ai/explorer)**  
   An advanced observability tool designed to simplify the analysis of agent traces, allowing users to quickly browse and understand agent behaviors and interactions.  
   ![GitHub Repo stars](https://img.shields.io/github/stars/invariantlabs-ai/explorer?style=social)
