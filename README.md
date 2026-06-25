@@ -169,6 +169,10 @@ This section will include tools and resources to monitor, debug, and analyze AI 
   Open-source observability, tracing, and evaluation platform for LLM applications and agent workflows.  
   ![GitHub Repo stars](https://img.shields.io/github/stars/comet-ml/opik?style=social)
 
+- **[rust-norion](https://github.com/yanghao1143/rust-norion)**
+  Rust prototype for AI runtime-control boundaries with routing, memory gates, evidence checks, rollback, and audit traces.
+  ![GitHub Repo stars](https://img.shields.io/github/stars/yanghao1143/rust-norion?style=social)
+
 <a id="platforms"></a>
 ## 🚀 Platforms *(Coming Soon)*
 
