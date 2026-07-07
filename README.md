@@ -136,6 +136,10 @@ Frameworks provide the foundational tools for developing, orchestrating, and man
   An open-source framework enabling developers to build, manage, and run autonomous AI agents efficiently, supporting concurrent agent operations and tool integration.  
   ![GitHub Repo stars](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social)
 
+- **[Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory)**
+  A framework-agnostic, local-first memory lifecycle framework for AI agents, with Rust CLI, SQLite/FTS recall, audit, consolidation, forgetting, and terminal UI support.
+  ![GitHub Repo stars](https://img.shields.io/github/stars/TerminallyLazy/Tree-Ring-Memory?style=social)
+
 - **[Upsonic](https://github.com/upsonic/upsonic)**  
   Upsonic is a reliable agent framework supporting MCP, offering trusted agent workflows with verification layers.
   ![GitHub Repo stars](https://img.shields.io/github/stars/upsonic/upsonic?style=social)
@@ -199,4 +203,3 @@ Have a framework, platform, or tool that you think belongs here? Feel free to op
 ---
 
 🌟 *Help us grow this directory by starring the repositories and sharing this page! Together, we can accelerate innovation in the AI agent space.* 🌟
-
