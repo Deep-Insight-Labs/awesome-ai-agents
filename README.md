@@ -80,6 +80,10 @@ Frameworks provide the foundational tools for developing, orchestrating, and man
   An end-to-end framework for building NLP applications, facilitating the creation of systems that can perform tasks like question answering and document retrieval using Transformer models and LLMs.  
   ![GitHub Repo stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social)
 
+- **[Hivekeep](https://github.com/MarlBurroW/hivekeep)**  
+  A self-hosted, MIT-licensed platform to run a team of specialized AI agents with persistent memory and a web UI; agents collaborate and build their own tools, mini-apps and plugins, reachable over Telegram, Slack, Discord and Matrix, shipped as a single container (Bun + SQLite).  
+  ![GitHub Repo stars](https://img.shields.io/github/stars/MarlBurroW/hivekeep?style=social)
+
 - **[Internet of Agents](https://github.com/OpenBMB/IoA)**  
   An open-source framework enabling AI agents to collaborate and tackle complex tasks together, facilitating distributed problem-solving.  
   ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/IoA?style=social)
