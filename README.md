@@ -169,6 +169,10 @@ This section will include tools and resources to monitor, debug, and analyze AI 
   Open-source observability, tracing, and evaluation platform for LLM applications and agent workflows.  
   ![GitHub Repo stars](https://img.shields.io/github/stars/comet-ml/opik?style=social)
 
+- **[Future AGI](https://github.com/future-agi/future-agi)**  
+  Open-source platform to simulate, evaluate, trace, guardrail, and optimize LLM and AI agent apps in one feedback loop, so agents don't just get monitored, they self-improve.  
+  ![GitHub Repo stars](https://img.shields.io/github/stars/future-agi/future-agi?style=social)
+
 <a id="platforms"></a>
 ## 🚀 Platforms *(Coming Soon)*
 
