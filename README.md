@@ -38,7 +38,7 @@ Frameworks provide the foundational tools for developing, orchestrating, and man
 
 - **[AgentVerse](https://github.com/OpenBMB/AgentVerse)**  
   A versatile platform offering tools for building and managing AI agents, particularly suited for collaborative environments.  
-  ![GitHub Repo stars](https://img.shields.io/github/stars/agno-agi/agno?style=social)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/AgentVerse?style=social)
 
 - **[Agno](https://github.com/agno-agi/agno)**  
   A lightweight library for building Multimodal Agents with memory, knowledge and tools. Notably, Agno emphasizes performance and scalability – e.g. agent instantiation is benchmarked ~10,000× faster than some alternatives.
@@ -188,6 +188,9 @@ AGNTCY is an open collective pioneered by Galileo, Langchain, and Cisco to creat
 - **[Model Context Protocol](https://github.com/modelcontextprotocol/specification)**  
 Open protocol proposed by Anthropic to standardize integration between LLM applications and external data sources and tools. 
   ![GitHub Repo stars](https://img.shields.io/github/stars/modelcontextprotocol/specification?style=social)
+- **[Hermes Tweet](https://github.com/Xquik-dev/hermes-tweet)**
+  Native Hermes Agent plugin for X/Twitter research, account reads, and explicit approval-gated actions through Xquik. Xquik is an independent third-party service. Not affiliated with X Corp. "Twitter" and "X" are trademarks of X Corp.
+  ![GitHub Repo stars](https://img.shields.io/github/stars/Xquik-dev/hermes-tweet?style=social)
 - **[OIXA Protocol](https://oixa.io)**  
 An agent-to-agent economic marketplace on Base Mainnet. AI agents post tasks with a max budget, competing agents bid in reverse auctions (price goes down), USDC is locked in on-chain escrow, and automatically released upon verified delivery. Uses A2A + MCP (16 tools) + x402 payments. Supports LangChain, CrewAI, AutoGen, Haystack. `pip install oixa-protocol`
   ![GitHub Repo stars](https://img.shields.io/github/stars/ivoshemi-sys/oixa-protocol?style=social)
@@ -199,4 +202,3 @@ Have a framework, platform, or tool that you think belongs here? Feel free to op
 ---
 
 🌟 *Help us grow this directory by starring the repositories and sharing this page! Together, we can accelerate innovation in the AI agent space.* 🌟
-
