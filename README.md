@@ -140,6 +140,10 @@ Frameworks provide the foundational tools for developing, orchestrating, and man
   Upsonic is a reliable agent framework supporting MCP, offering trusted agent workflows with verification layers.
   ![GitHub Repo stars](https://img.shields.io/github/stars/upsonic/upsonic?style=social)
 
+- **[Agon](https://github.com/AutoResearch-Factory/Agon)**  
+  Autonomous research orchestrator built on six design principles, with Prompt Economy as the cornerstone. Covers 10+ disciplines with 18 reusable roles and 230.6 KiB of prompts.  
+  ![GitHub Repo stars](https://img.shields.io/github/stars/AutoResearch-Factory/Agon?style=social)
+
 <a id="observability-and-tracing"></a>
 ## 🔍 Observability and Tracing
 
