@@ -48,6 +48,10 @@ Frameworks provide the foundational tools for developing, orchestrating, and man
   A versatile, open-source framework created by BrainBlend AI for developing multi-agent systems and AI applications.  
   ![GitHub Repo stars](https://img.shields.io/github/stars/BrainBlend-AI/atomic-agents?style=social)
 
+- **[Atomic Agent (AtomicBot)](https://github.com/AtomicBot-ai/atomic-agent)**  
+  A local-first CLI and TUI coding assistant that runs open-weight models entirely on your machine through a llama.cpp fork, with no account or API key required. Ships 56 built-in tools (browser, filesystem, git, memory, vision), MCP support, and a five-layer local memory system across macOS, Linux, and Windows. Currently a developer preview, so APIs and commands are still moving.  
+  ![GitHub Repo stars](https://img.shields.io/github/stars/AtomicBot-ai/atomic-agent?style=social)
+
 - **[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)**  
 
 - **[GolemCore Bot](https://github.com/alexk-dev/golemcore-bot)**  
