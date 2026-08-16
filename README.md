@@ -11,7 +11,7 @@ By [Deep Insight Labs](https://www.deepinsightlabs.ai)
 
 1. [Frameworks](#frameworks)
 2. [Observability and Tracing](#observability-and-tracing)
-3. [Platforms](#platforms) *(Coming Soon)*
+3. [Platforms](#platforms)
 4. [Emerging Ideas](#emerging-ideas)
 
 <a id="frameworks"></a>
@@ -170,9 +170,9 @@ This section will include tools and resources to monitor, debug, and analyze AI 
   ![GitHub Repo stars](https://img.shields.io/github/stars/comet-ml/opik?style=social)
 
 <a id="platforms"></a>
-## 🚀 Platforms *(Coming Soon)*
+## 🚀 Platforms
 
-Stay tuned for updates! This section will cover platforms that enable you to deploy and manage AI agents in production environments.
+- **[Orkas](https://github.com/Orkas-AI/Orkas)** — Open-source, local-first desktop AI workforce coordinated by a Commander through one chat. ![GitHub Repo stars](https://img.shields.io/github/stars/Orkas-AI/Orkas?style=social)
 
 <a id="emerging-ideas"></a>
 ## 🌱 Emerging Ideas
@@ -199,4 +199,3 @@ Have a framework, platform, or tool that you think belongs here? Feel free to op
 ---
 
 🌟 *Help us grow this directory by starring the repositories and sharing this page! Together, we can accelerate innovation in the AI agent space.* 🌟
-
