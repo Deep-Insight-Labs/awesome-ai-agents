@@ -11,8 +11,9 @@ By [Deep Insight Labs](https://www.deepinsightlabs.ai)
 
 1. [Frameworks](#frameworks)
 2. [Observability and Tracing](#observability-and-tracing)
-3. [Platforms](#platforms) *(Coming Soon)*
-4. [Emerging Ideas](#emerging-ideas)
+3. [Testing and QA](#testing-and-qa)
+4. [Platforms](#platforms) *(Coming Soon)*
+5. [Emerging Ideas](#emerging-ideas)
 
 <a id="frameworks"></a>
 ## 🛠 Frameworks
@@ -169,6 +170,15 @@ This section will include tools and resources to monitor, debug, and analyze AI 
   Open-source observability, tracing, and evaluation platform for LLM applications and agent workflows.  
   ![GitHub Repo stars](https://img.shields.io/github/stars/comet-ml/opik?style=social)
 
+<a id="testing-and-qa"></a>
+## ✅ Testing and QA
+
+This section covers tools that let agents and teams exercise applications and validate user workflows.
+
+- **[Agent QA](https://github.com/vostride/agent-qa)**
+  Agentic QA CLI and MCP server for natural-language web and mobile tests using configured model and browser or device providers.
+  ![GitHub Repo stars](https://img.shields.io/github/stars/vostride/agent-qa?style=social)
+
 <a id="platforms"></a>
 ## 🚀 Platforms *(Coming Soon)*
 
@@ -199,4 +209,3 @@ Have a framework, platform, or tool that you think belongs here? Feel free to op
 ---
 
 🌟 *Help us grow this directory by starring the repositories and sharing this page! Together, we can accelerate innovation in the AI agent space.* 🌟
-
