@@ -28,6 +28,10 @@ Frameworks provide the foundational tools for developing, orchestrating, and man
   Open-source control plane for building and operating AI agents like APIs at scale, with routing, memory, observability, identity, auth, and policy controls.  
   ![GitHub Repo stars](https://img.shields.io/github/stars/Agent-Field/agentfield?style=social)
 
+- **[SandBase CLI](https://github.com/sandbaseai/cli)**  
+  Open-source command-line tool and MCP bridge providing a unified interface to access 2,000+ AI models for agent workflows.  
+  ![GitHub Repo stars](https://img.shields.io/github/stars/sandbaseai/cli?style=social)
+
 - **[Agent Genesis](https://github.com/DeadmanAbir/AgentGenesis)**  
   An open-source framework that allows developers to build custom Retrieval-Augmented Generation (RAG) workflows and AI agents using modular, copy-paste components.  
   ![GitHub Repo stars](https://img.shields.io/github/stars/DeadmanAbir/AgentGenesis?style=social)
@@ -199,4 +203,3 @@ Have a framework, platform, or tool that you think belongs here? Feel free to op
 ---
 
 🌟 *Help us grow this directory by starring the repositories and sharing this page! Together, we can accelerate innovation in the AI agent space.* 🌟
-
