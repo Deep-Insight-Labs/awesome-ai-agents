@@ -140,6 +140,10 @@ Frameworks provide the foundational tools for developing, orchestrating, and man
   Upsonic is a reliable agent framework supporting MCP, offering trusted agent workflows with verification layers.
   ![GitHub Repo stars](https://img.shields.io/github/stars/upsonic/upsonic?style=social)
 
+- **[SandBase Harness](https://github.com/sandbaseai/sandbase-harness)**
+  Self-hosted runtime and MCP bridge for managed agent sessions, sandboxed execution, approvals, and audit replay.
+  ![GitHub Repo stars](https://img.shields.io/github/stars/sandbaseai/sandbase-harness?style=social)
+
 <a id="observability-and-tracing"></a>
 ## 🔍 Observability and Tracing
 
@@ -199,4 +203,3 @@ Have a framework, platform, or tool that you think belongs here? Feel free to op
 ---
 
 🌟 *Help us grow this directory by starring the repositories and sharing this page! Together, we can accelerate innovation in the AI agent space.* 🌟
-
