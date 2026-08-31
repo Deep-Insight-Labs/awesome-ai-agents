@@ -64,6 +64,10 @@ Frameworks provide the foundational tools for developing, orchestrating, and man
   An open-source toolkit designed to create scalable agent-based workflows with various AI models.  
   ![GitHub Repo stars](https://img.shields.io/github/stars/i-am-bee/bee-agent-framework?style=social)
 
+- **[Bernstein](https://github.com/sipyourdrink-ltd/bernstein)**  
+  Open-source governance layer for AI agents, with an HMAC-chained audit log over every run. Drives 40+ agent CLIs (Claude Code, Codex, Gemini CLI, Cursor, Aider) in parallel git worktrees. One LLM plan call up front; then deterministic scheduling and quality gates. Apache-2.0.  
+  ![GitHub Repo stars](https://img.shields.io/github/stars/sipyourdrink-ltd/bernstein?style=social)
+
 - **[CAMEL](https://github.com/camel-ai/camel)**  
   Emerging from a research community exploring the “scaling laws” of AI agents. Designed as a sandbox to study how collaborative AI systems perform and evolve as the number of agents grows.
   ![GitHub Repo stars](https://img.shields.io/github/stars/camel-ai/camel?style=social)
