@@ -65,7 +65,7 @@ Frameworks provide the foundational tools for developing, orchestrating, and man
   ![GitHub Repo stars](https://img.shields.io/github/stars/i-am-bee/bee-agent-framework?style=social)
 
 - **[Bernstein](https://github.com/sipyourdrink-ltd/bernstein)**  
-  Python orchestrator that drives 40+ CLI coding agents (Claude Code, Codex, Gemini CLI, Cursor, Aider) in parallel git worktrees. One LLM plan call up front; then deterministic scheduling, quality gates, and an HMAC-chained audit log. Apache-2.0.  
+  Open-source governance layer for AI agents, with an HMAC-chained audit log over every run. Drives 40+ agent CLIs (Claude Code, Codex, Gemini CLI, Cursor, Aider) in parallel git worktrees. One LLM plan call up front; then deterministic scheduling and quality gates. Apache-2.0.  
   ![GitHub Repo stars](https://img.shields.io/github/stars/sipyourdrink-ltd/bernstein?style=social)
 
 - **[CAMEL](https://github.com/camel-ai/camel)**  
