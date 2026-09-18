@@ -170,6 +170,8 @@ This section will include tools and resources to monitor, debug, and analyze AI 
   ![GitHub Repo stars](https://img.shields.io/github/stars/comet-ml/opik?style=social)
 
 <a id="platforms"></a>
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) — Free open-source monitoring dashboard for OpenClaw AI agents. Tracks token usage, session status, and 7-day trends with ECharts visualizations. Supports multiple LLM models. Vue 3 + Node.js, self-hosted.
+
 ## 🚀 Platforms *(Coming Soon)*
 
 Stay tuned for updates! This section will cover platforms that enable you to deploy and manage AI agents in production environments.
