@@ -149,6 +149,9 @@ This section will include tools and resources to monitor, debug, and analyze AI 
   A platform designed to monitor multi-agent systems, providing insights into performance bottlenecks and collaboration quality, thereby enhancing efficiency and reliability.  
   ![GitHub Repo stars](https://img.shields.io/github/stars/AgentOps-AI/agentops?style=social)
 
+- **[Apica AI & LLM Observability](https://www.apica.io/ai-llm-observability/)**  
+  Enterprise AI agent and LLM observability control plane designed to monitor token spend, latency, and high-volume multi-step agent telemetry with OpenTelemetry integration.
+
 - **[Explorer by Invariant Labs](https://github.com/invariantlabs-ai/explorer)**  
   An advanced observability tool designed to simplify the analysis of agent traces, allowing users to quickly browse and understand agent behaviors and interactions.  
   ![GitHub Repo stars](https://img.shields.io/github/stars/invariantlabs-ai/explorer?style=social)
