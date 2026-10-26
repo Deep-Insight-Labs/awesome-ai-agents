@@ -177,6 +177,10 @@ Stay tuned for updates! This section will cover platforms that enable you to dep
 <a id="emerging-ideas"></a>
 ## 🌱 Emerging Ideas
 
+- **[Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node)**  
+  Local CLI and stdio MCP payment runtime with owner-set limits, command-specific foreground approval, operation status and receipts; macOS Apple Silicon only.  
+  ![GitHub Repo stars](https://img.shields.io/github/stars/nuanu-ai/agent-payment-node?style=social)
+
 - **[AGNTCY](https://github.com/agntcy)**  
 AGNTCY is an open collective pioneered by Galileo, Langchain, and Cisco to create and build the infrastructure specifications and components for interoperable multi-agent systems. AGNTCY aims to standardize how AI agents are **discovered, composed, deployed, and evaluated** to enable collaboration across frameworks and companies.
     - **[Open Agent Schema Framework](http://github.com/agntcy/oasf)**  
