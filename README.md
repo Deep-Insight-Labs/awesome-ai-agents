@@ -191,6 +191,9 @@ Open protocol proposed by Anthropic to standardize integration between LLM appli
 - **[OIXA Protocol](https://oixa.io)**  
 An agent-to-agent economic marketplace on Base Mainnet. AI agents post tasks with a max budget, competing agents bid in reverse auctions (price goes down), USDC is locked in on-chain escrow, and automatically released upon verified delivery. Uses A2A + MCP (16 tools) + x402 payments. Supports LangChain, CrewAI, AutoGen, Haystack. `pip install oixa-protocol`
   ![GitHub Repo stars](https://img.shields.io/github/stars/ivoshemi-sys/oixa-protocol?style=social)
+- **[Signbee](https://github.com/signbee/mcp)**  
+Open-source MCP server, agent skill ([signbee/skill](https://github.com/signbee/skill)), and REST API ([signb.ee](https://signb.ee)) enabling autonomous AI agents to send Markdown or PDF contracts for two-party e-signing with SHA-256 cryptographic audit certificates.  
+  ![GitHub Repo stars](https://img.shields.io/github/stars/signbee/mcp?style=social)
 
 ### ✨ Contribute to the Directory  
 
