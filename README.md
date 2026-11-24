@@ -1,6 +1,7 @@
 # 🌟 Awesome AI Agents
 
 - **[Prefactor](https://prefactor.tech/)**  
+- **[Public Records MCP](https://github.com/GeminiGeorge22/publicrecords-mcp)** - 18 Apify-hosted MCP servers for public data: SAM.gov, Grants.gov, USAspending, EU TED and UK tenders, city council meetings, Ashby/Greenhouse/Lever/SmartRecruiters jobs, company social links, Google Ads Transparency, Etsy sales, sports odds, Spotify play counts.
   An AI agent runtime control plane offering runtime visibility, governance, and real-time observability across multi-agent workflows, with integrations for LangChain, CrewAI, and more.  
   ![GitHub Repo stars](https://img.shields.io/github/stars/Deep-Insight-Labs/prefactor?style=social)
 A curated directory of practical and usable AI agents, covering resources from applications and platforms to frameworks, utilities, and other components in the growing AI agents ecosystem.
